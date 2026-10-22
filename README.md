@@ -35,7 +35,7 @@ Nothing to install on the server, so it works on Hypixel and any other server.
 
 ### Built for Hypixel SkyBlock
 - Reads the type line in each item's lore (sword, drill, wand, fishing rod, bow, axe, hoe, shovel, gauntlet, deployable), including dungeon and recombobulated items.
-- Drills shake while you mine, swords and wands flourish when you use an ability, rods cast.
+- Drills shake while you mine, swords and wands flourish when you use an ability, rods cast. Every animation is customizable with resource packs: choose how each one works for any item.
 
 ### Custom animations with resource packs
 - One JSON file per item in `assets/<namespace>/handanimations/items/`.
